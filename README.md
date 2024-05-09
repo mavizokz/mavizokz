@@ -4,15 +4,11 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mavizokz&show_icons=true&count_private=true&hide_border=true&title_color=C492B3&icon_color=C492B3&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavizokz&layout=compact&hide_border=true&title_color=C492B3&text_color=C492B3&bg_color=0d1117" />
 </div>
 
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 
 ### Main skills:
@@ -40,9 +36,6 @@
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mavizokz}/count.svg" /></p> 
-<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C492B3&height=120&section=footer"/>
