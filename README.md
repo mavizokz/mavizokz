@@ -23,7 +23,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Pentaho](https://img.shields.io/badge/-Pentaho-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
